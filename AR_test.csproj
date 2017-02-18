@@ -78,6 +78,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\UserInterfaceButtons.cs" />
     <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
     <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
     <Compile Include="Assets\Vuforia\Scripts\CylinderTargetBehaviour.cs" />
@@ -113,6 +114,7 @@
     <Compile Include="Assets\Vuforia\Scripts\WireframeBehaviour.cs" />
     <Compile Include="Assets\Vuforia\Scripts\WireframeTrackableEventHandler.cs" />
     <Compile Include="Assets\Vuforia\Scripts\WordBehaviour.cs" />
+    <Compile Include="Assets\jiwoo0.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
