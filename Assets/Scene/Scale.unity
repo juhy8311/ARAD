@@ -2107,6 +2107,22 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1254254789}
+--- !u!1 &1322322372 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100072, guid: 152b4728ba3644f4d98b6b893446a677, type: 3}
+  m_PrefabInternal: {fileID: 812280935}
+--- !u!114 &1322322374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1322322372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e37486edb0610a2498eb2cc88b56279c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  car: {fileID: 1322322372}
 --- !u!1 &1585812642
 GameObject:
   m_ObjectHideFlags: 0
