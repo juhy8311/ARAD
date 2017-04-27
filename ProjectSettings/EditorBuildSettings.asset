@@ -5,19 +5,35 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/2.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scale.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Detail.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Inside.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Color.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Red.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Black.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Gray.unity
+  - enabled: 1
+    path: Assets/Scene/2.unity
+  - enabled: 1
+    path: Assets/Scene/Black.unity
+  - enabled: 1
+    path: Assets/Scene/Inside.unity
+  - enabled: 1
+    path: Assets/Scene/Color.unity
+  - enabled: 1
+    path: Assets/Scene/Detail.unity
+  - enabled: 1
+    path: Assets/Scene/Gray.unity
+  - enabled: 1
+    path: Assets/Scene/Red.unity
+  - enabled: 1
+    path: Assets/Scene/Scale.unity
