@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: ac2c4b6f836fe7d4a9ff4c49dca9c6a1
+timeCreated: 1496566144
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back  bumper
+    100002: back glass
+    100004: back logo
+    100006: back metal
+    100008: back whiper
+    100010: badge_trun_001
+    100012: black_trun_001
+    100014: body hood
+    100016: cryAnimationExportNode
+    100018: cryExporterSettingsNode
+    100020: door black3
+    100022: door black4
+    100024: door glass
+    100026: door1
+    100028: door1-1
+    100030: door2
+    100032: down black
+    100034: down side body
+    100036: front  bumper
+    100038: front logol
+    100040: front metal1
+    100042: front whiper
+    100044: front white
+    100046: glass
+    100048: grill
+    100050: in
+    100052: matte_co02_001
+    100054: matte_colo_001
+    100056: mirror
+    100058: mirror in
+    100060: mirror side
+    100062: red light
+    100064: side black
+    100066: side body
+    100068: side body2
+    100070: tire006
+    100072: tire1
+    100074: tire2
+    100076: tire3
+    100078: tire4
+    100080: tire5
+    100082: trunk
+    100084: trunk black
+    100086: up black
+    100088: //RootNode
+    100090: white plastic
+    400000: back  bumper
+    400002: back glass
+    400004: back logo
+    400006: back metal
+    400008: back whiper
+    400010: badge_trun_001
+    400012: black_trun_001
+    400014: body hood
+    400016: cryAnimationExportNode
+    400018: cryExporterSettingsNode
+    400020: door black3
+    400022: door black4
+    400024: door glass
+    400026: door1
+    400028: door1-1
+    400030: door2
+    400032: down black
+    400034: down side body
+    400036: front  bumper
+    400038: front logol
+    400040: front metal1
+    400042: front whiper
+    400044: front white
+    400046: glass
+    400048: grill
+    400050: in
+    400052: matte_co02_001
+    400054: matte_colo_001
+    400056: mirror
+    400058: mirror in
+    400060: mirror side
+    400062: red light
+    400064: side black
+    400066: side body
+    400068: side body2
+    400070: tire006
+    400072: tire1
+    400074: tire2
+    400076: tire3
+    400078: tire4
+    400080: tire5
+    400082: trunk
+    400084: trunk black
+    400086: up black
+    400088: //RootNode
+    400090: white plastic
+    2300000: back  bumper
+    2300002: back glass
+    2300004: back logo
+    2300006: back metal
+    2300008: back whiper
+    2300010: badge_trun_001
+    2300012: black_trun_001
+    2300014: body hood
+    2300016: door black3
+    2300018: door black4
+    2300020: door glass
+    2300022: door1
+    2300024: door1-1
+    2300026: door2
+    2300028: down black
+    2300030: down side body
+    2300032: front  bumper
+    2300034: front logol
+    2300036: front metal1
+    2300038: front whiper
+    2300040: front white
+    2300042: glass
+    2300044: grill
+    2300046: in
+    2300048: matte_co02_001
+    2300050: matte_colo_001
+    2300052: mirror
+    2300054: mirror in
+    2300056: mirror side
+    2300058: red light
+    2300060: side black
+    2300062: side body
+    2300064: side body2
+    2300066: tire006
+    2300068: tire1
+    2300070: tire2
+    2300072: tire3
+    2300074: tire4
+    2300076: tire5
+    2300078: trunk
+    2300080: trunk black
+    2300082: up black
+    2300084: white plastic
+    3300000: back  bumper
+    3300002: back glass
+    3300004: back logo
+    3300006: back metal
+    3300008: back whiper
+    3300010: badge_trun_001
+    3300012: black_trun_001
+    3300014: body hood
+    3300016: door black3
+    3300018: door black4
+    3300020: door glass
+    3300022: door1
+    3300024: door1-1
+    3300026: door2
+    3300028: down black
+    3300030: down side body
+    3300032: front  bumper
+    3300034: front logol
+    3300036: front metal1
+    3300038: front whiper
+    3300040: front white
+    3300042: glass
+    3300044: grill
+    3300046: in
+    3300048: matte_co02_001
+    3300050: matte_colo_001
+    3300052: mirror
+    3300054: mirror in
+    3300056: mirror side
+    3300058: red light
+    3300060: side black
+    3300062: side body
+    3300064: side body2
+    3300066: tire006
+    3300068: tire1
+    3300070: tire2
+    3300072: tire3
+    3300074: tire4
+    3300076: tire5
+    3300078: trunk
+    3300080: trunk black
+    3300082: up black
+    3300084: white plastic
+    4300000: black_trun_001
+    4300002: badge_trun_001
+    4300004: matte_colo_001
+    4300006: matte_co02_001
+    4300008: side body
+    4300010: glass
+    4300012: up black
+    4300014: body hood
+    4300016: front  bumper
+    4300018: down black
+    4300020: in
+    4300022: white plastic
+    4300024: front white
+    4300026: front logol
+    4300028: front metal1
+    4300030: down side body
+    4300032: mirror side
+    4300034: mirror
+    4300036: back metal
+    4300038: front whiper
+    4300040: trunk
+    4300042: back  bumper
+    4300044: back logo
+    4300046: red light
+    4300048: tire1
+    4300050: tire2
+    4300052: tire3
+    4300054: tire4
+    4300056: mirror in
+    4300058: grill
+    4300060: back whiper
+    4300062: door1
+    4300064: door2
+    4300066: tire006
+    4300068: tire5
+    4300070: door1-1
+    4300072: back glass
+    4300074: door glass
+    4300076: door black3
+    4300078: door black4
+    4300080: trunk black
+    4300082: side black
+    4300084: side body2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
